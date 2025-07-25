@@ -1,0 +1,51 @@
+,clean_sentence,clean_token,ref_type,original_ref_type
+520,walnut crack shell release woody nutty aroma,aroma nutty walnut woody  ,Olfactive,Quality
+284,boiling vinegar cleanse air acrid odor,acrid odor vinegar  ,Olfactive,Quality
+512,fish tank filter emit faint algae odor,algae odor  ,Olfactive,Quality
+331,charcoal smoke rise grill scent fill patio,charcoal scent smoke  ,Olfactive,Quality
+210,musty smell linger forgotten cellar,musty smell  ,Olfactive,Quality
+90,eucalyptus leave give sauna soothing herbal fragrance,eucalyptus fragrance  ,Olfactive,Quality
+299,steamed rice release subtle nutty aroma,aroma nutty rice  ,Olfactive,Quality
+181,smell strong cologne announce arrival,smell  ,Olfactive,Quality
+544,honey drizzle biscuit bring floral sweet scent,floral honey scent sweet  ,Olfactive,Quality
+137,fresh basil crush knife release pungent aroma,aroma basil pungent  ,Olfactive,Quality
+545,soap bubble burst leave faint artificial perfume,artificial perfume soap  ,Olfactive,Quality
+70,earthy bitter smell coffee bean linger,bitter coffee earthy smell  ,Olfactive,Quality
+394,sack potato rot release earthy foul smell,earthy foul potato rot smell  ,Olfactive,Quality
+234,wet soil smell spring rain,rain smell soil  ,Olfactive,Quality
+422,ripe tomato vine emit grassy tang,grassy tang tomato  ,Olfactive,Quality
+155,rainforest air thick aroma damp vegetation,aroma damp  ,Olfactive,Quality
+209,old photograph smell faint ink decay,decay ink smell  ,Olfactive,Quality
+371,box crayon open release waxy scent,crayon scent waxy  ,Olfactive,Quality
+502,flower bouquet lily rose freesia waft perfume,freesia lily perfume rose  ,Olfactive,Quality
+182,woodshop filled scent sawdust pine,pine sawdust scent  ,Olfactive,Quality
+280,damp towel mildew smell laundry basket,mildew smell towel  ,Olfactive,Quality
+227,jasmine flower open dusk release seductive scent,jasmine scent  ,Olfactive,Quality
+2,jasmine sweet intoxicate fragrance drift moonlit garden,fragrance jasmine sweet  ,Olfactive,Quality
+558,apple pie oven fill house cinnamon sugar scent,apple cinnamon scent sugar  ,Olfactive,Quality
+199,coconut lotion linger beach towel,beach coconut lotion  ,Olfactive,Quality
+63,market stall,  ,Olfactive,Quality
+55,breeze carry sharp mineral scent mountain,scent sharp  ,Olfactive,Quality
+583,old suitcase lined velvet hold scent travel mildew,mildew scent velvet  ,Olfactive,Quality
+286,lavender essential oil defuse bedroom sleep,lavender oil  ,Olfactive,Quality
+29,faint floral perfume cling note envelope,floral perfume  ,Olfactive,Quality
+473,rose bloom morning dew release sweet scent,rose scent sweet  ,Olfactive,Quality
+231,pencil shaving give woody nostalgic scent,woody scent  ,Olfactive,Quality
+584,incense stick burn coil emit sweet smoky fragrance,fragrance incense smoky sweet  ,Olfactive,Quality
+249,apple cider mull spice sweet scent,apple scent spice sweet  ,Olfactive,Quality
+82,ripe tomato stand smell earthy fresh tangy,earthy fresh smell  ,Olfactive,Quality
+320,bookstore carry scent ink paper dust,dust ink paper scent  ,Olfactive,Quality
+281,scent sunscreen signal summer beach memory,scent sunscreen  ,Olfactive,Quality
+176,damp dog jump couch smell fill room,dog smell  ,Olfactive,Quality
+453,classroom smell dry erase marker old textbook,dry erase marker smell textbook  ,Olfactive,Quality
+550,flower bouquet lily rose freesia waft perfume,freesia lily perfume rose  ,Olfactive,Quality
+248,sunlight grass release fresh earthy smell,earthy fresh grass smell,Olfactive,Quality
+211,tomato basil soup emit rich hearty fragrance,basil fragrance tomato  ,Olfactive,Quality
+177,fried food stall exude thick greasy aroma,aroma greasy  ,Olfactive,Quality
+10,diesel fume cling busy street unwelcome guest,  ,Olfactive,Quality
+426,potpourri bowl living room cinnamon floral aroma,aroma cinnamon floral potpourri  ,Olfactive,Quality
+524,fridge whiff stale meat onion linger,meat onion stale whiff  ,Olfactive,Quality
+6,crisp clean scent pine tree refresh lung,clean crisp pine scent  ,Olfactive,Quality
+488,gasoline rag left garage acrid odor,acrid gasoline odor  ,Olfactive,Quality
+349,car seat hold scent sunscreen leather,leather scent sunscreen  ,Olfactive,Quality
+277,grated parmesan add pungent aroma pasta,pungent aroma parmesan  ,Olfactive,Quality

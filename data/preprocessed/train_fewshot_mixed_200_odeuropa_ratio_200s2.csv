@@ -1,0 +1,201 @@
+,clean_sentence,clean_token,ref_type,original_ref_type
+487,coffee bean grind burst nutty smoky aroma,aroma coffee nutty smoky  ,Olfactive,Quality
+74,faint whiff gasoline come recently park care,gasoline whiff  ,Olfactive,Quality
+350,smoke chimney mix cold morning air,smoke  ,Olfactive,Quality
+87,hot asphalt carry smell summer heat city life,asphalt smell  ,Olfactive,Quality
+458,bathroom cleaner sharp lemon bleach odor,bleach lemon odor sharp  ,Olfactive,Quality
+78,aromatic clove give cider festive spicy fragrance,clove fragrance spicy  ,Olfactive,Quality
+513,old trunk open dust mildew smell,mildew dust smell  ,Olfactive,Quality
+375,lavender field hum bee breeze floral scent,floral lavender scent  ,Olfactive,Quality
+90,eucalyptus leave give sauna soothing herbal fragrance,eucalyptus fragrance  ,Olfactive,Quality
+430,motel room faint odor bleach cigarette smoke,bleach cigarette odor smoke  ,Olfactive,Quality
+6,crisp clean scent pine tree refresh lung,clean crisp pine scent  ,Olfactive,Quality
+251,scent tobacco pipe fill library warmth,tobacco scent  ,Olfactive,Quality
+408,fridge emit faint onion fish smell,fish onion smell  ,Olfactive,Quality
+76,sweet milky scent coconut oil linger skin,coconut scent sweet  ,Olfactive,Quality
+249,apple cider mull spice sweet scent,apple scent spice sweet  ,Olfactive,Quality
+526,freshly peeled orange spray citrus zest,orange citrus zest  ,Olfactive,Quality
+482,pet cage smell sawdust animal waste,animal sawdust smell waste  ,Olfactive,Quality
+102,pillow carry lingering trace perfume partner,perfume  ,Olfactive,Quality
+427,sunwarmed backpack emit scent plastic sunblock,plastic scent sunblock  ,Olfactive,Quality
+55,breeze carry sharp mineral scent mountain,scent sharp  ,Olfactive,Quality
+512,fish tank filter emit faint algae odor,algae odor  ,Olfactive,Quality
+411,cotton candy twirl stick sugary scent drift,scent sugary  ,Olfactive,Quality
+368,grandmother quilt smell lavender cedar chest,cedar lavender quilt smell  ,Olfactive,Quality
+245,hot chocolate steam rich cocoa fragrance,cocoa fragrance  ,Olfactive,Quality
+205,subway car filled odor damp coat,coat damp odor  ,Olfactive,Quality
+2,jasmine sweet intoxicate fragrance drift moonlit garden,fragrance jasmine sweet  ,Olfactive,Quality
+341,toothpaste minty foam smell clean,clean minty smell  ,Olfactive,Quality
+356,mint leaf tea cup release crisp scent,crisp mint scent  ,Olfactive,Quality
+10,diesel fume cling busy street unwelcome guest,  ,Olfactive,Quality
+354,old letter drawer smell age ink,ink letter smell  ,Olfactive,Quality
+118,steamed bun smell slightly sweet yeasty comforting,smell sweet yeasty  ,Olfactive,Quality
+500,newspaper ink smudge finger leave chemical odor,chemical ink odor  ,Olfactive,Quality
+361,egg salad sandwich emit sulfur smell,sulfur smell  ,Olfactive,Quality
+276,burn plastic emit toxic chemical odor,chemical odor plastic  ,Olfactive,Quality
+533,kitchen counter smell vinegar baking soda,baking soda smell vinegar  ,Olfactive,Quality
+480,dryer sheet soften clothe leave fresh scent,clothe fresh scent  ,Olfactive,Quality
+279,gas station smell fuel rubber asphalt,asphalt fuel rubber smell  ,Olfactive,Quality
+73,sweet strawberry peak ripeness release juicy sugary fragrance,fragrance sweet  ,Olfactive,Quality
+399,dog wet fur smell linger carpet,dog fur smell  ,Olfactive,Quality
+275,bar soap blend oatmeal lavender scent,lavender oatmeal scent  ,Olfactive,Quality
+150,fresh cilantro emit pungent citrusy scent,pungent scent  ,Olfactive,Quality
+357,refrigerator open smell garlic leftover,garlic smell  ,Olfactive,Quality
+416,baby blanket soft scent milk powder,milk powder scent  ,Olfactive,Quality
+228,burn marshmallow give sugary charred smell,charred smell sugary  ,Olfactive,Quality
+248,sunlight grass release fresh earthy smell,earthy fresh grass smell,Olfactive,Quality
+80,humid air carry swamp,  ,Olfactive,Quality
+133,zoo air heavy animal scent straw,scent  ,Olfactive,Quality
+302,apple peel cinnamon stew fill kitchen warm fragrance,apple cinnamon fragrance warm  ,Olfactive,Quality
+229,nail polish remover emit sharp acetone odor,acetone odor sharp  ,Olfactive,Quality
+30,burn sugar leave bitter smell small kitchen,bitter smell  ,Olfactive,Quality
+433,rotten egg smash sidewalk sulfurous stench,egg rotten stench  ,Olfactive,Quality
+508,scent shampoo trail air shower,shampoo scent  ,Olfactive,Quality
+211,tomato basil soup emit rich hearty fragrance,basil fragrance tomato  ,Olfactive,Quality
+9,sea breeze carry salty briny note seaweed,briny salty sea  ,Olfactive,Quality
+528,baby lotion rub skin sweet powdery scent,powdery lotion sweet scent  ,Olfactive,Quality
+178,scent fresh cut flowers bouquet kitchen,flowers fresh scent  ,Olfactive,Quality
+105,decay autumn leave smell forest floor,decay smell  ,Olfactive,Quality
+440,grilled pineapple sweet smoky tangy aroma,aroma pineapple smoky sweet tangy  ,Olfactive,Quality
+141,sharp smell acetone fill nail salon,acetone sharp smell  ,Olfactive,Quality
+149,burning tire release acrid black smoke,acrid burning smoke  ,Olfactive,Quality
+291,popcorn stand carnival waft butter salt scent,butter popcorn salt scent  ,Olfactive,Quality
+404,cut lemon squirt air tart citrus scent,citrus lemon scent tart  ,Olfactive,Quality
+77,barn smelled hay leather warm scent animal,hay leather scent  ,Olfactive,Quality
+535,old suitcase lined velvet hold scent travel mildew,mildew scent velvet  ,Olfactive,Quality
+70,earthy bitter smell coffee bean linger,bitter coffee earthy smell  ,Olfactive,Quality
+484,public pool smell chlorine rubber float,chlorine rubber smell  ,Olfactive,Quality
+347,fresh plum burst juice sweet fruity smell,fruity plum smell sweet  ,Olfactive,Quality
+538,fresh snow fall pine forest clean cold scent,clean cold pine scent  ,Olfactive,Quality
+223,newspaper smell ink fresh print,ink smell  ,Olfactive,Quality
+389,orange blossom tree fill garden floral scent,blossom floral orange scent  ,Olfactive,Quality
+79,clean linen smell faintly lavender sunlight wash,clean lavender smell  ,Olfactive,Quality
+456,fridge smell leftover curry onion,curry onion smell  ,Olfactive,Quality
+230,kitchen sink drain smell sour detergent,detergent smell sour  ,Olfactive,Quality
+168,hotel lobby scented artificial jasmine oil,jasmine oil scented  ,Olfactive,Quality
+68,harsh acrid smell smoke signal distant fire,smell smoke  ,Olfactive,Quality
+212,puddle gasoline shimmer release tangy chemical smell,chemical gasoline smell tangy  ,Olfactive,Quality
+63,market stall,  ,Olfactive,Quality
+193,roast beef kitchen fill meaty rich aroma,aroma beef  ,Olfactive,Quality
+369,fruit stand full melon peach tang,melon peach tang  ,Olfactive,Quality
+83,sharp peppery aroma arugula fill garden spring,aroma sharp  ,Olfactive,Quality
+472,aroma hot soup swirl steam bowl,aroma soup  ,Olfactive,Quality
+33,dry line carry fresh sunlit air,fresh  ,Olfactive,Quality
+85,wet dog smell fill car beach trip,smell  ,Olfactive,Quality
+91,salty smell pretzel waft bustling street fair,salty smell  ,Olfactive,Quality
+0,aroma fresh baked bread linger warmly air,aroma bread fresh  ,Olfactive,Quality
+11,acrid scent burn toast linger unpleasantly air,scent  ,Olfactive,Quality
+262,puppy breath soft yeasty sweet,yeasty sweet  ,Olfactive,Quality
+22,freshly cut grass bring bright lively smell summer,grass smell  ,Olfactive,Quality
+355,public bus faint odor food perfume people,food odor perfume  ,Olfactive,Quality
+185,locker room heavy scent sweat disinfectant,scent sweat  ,Olfactive,Quality
+306,fridge smell forgotten broccoli cheese,mold smell  ,Olfactive,Quality
+174,rubber boot drying sun smell scorched,rubber smell  ,Olfactive,Quality
+154,rosewater perfume evoke memory grandmother,perfume rosewater  ,Olfactive,Quality
+238,faint trace perfume linger sweater collar,perfume  ,Olfactive,Quality
+18,morning dew carry faint scent bloom rose,rose scent  ,Olfactive,Quality
+197,pillowcase smell shampoo hint lavender,lavender shampoo smell  ,Olfactive,Quality
+473,rose bloom morning dew release sweet scent,rose scent sweet  ,Olfactive,Quality
+15,damp wool carry musty odor trek,musty odor  ,Olfactive,Quality
+441,motor oil stain garage give greasy metallic smell,greasy metallic oil smell  ,Olfactive,Quality
+39,steamed rice release neutral soft smell simple comfort,smell  ,Olfactive,Quality
+496,honey drizzle biscuit bring floral sweet scent,floral honey scent sweet  ,Olfactive,Quality
+465,whiff sweaty tshirt linger gym,shirt sweaty whiff  ,Olfactive,Quality
+46,faint whiff tar saltwater define harbor,tar whiff  ,Olfactive,Quality
+94,new leather boot carry distinct polished smell house,leather smell  ,Olfactive,Quality
+326,fresh mint leaf bruise finger strong aroma,aroma mint  ,Olfactive,Quality
+181,smell strong cologne announce arrival,smell  ,Olfactive,Quality
+332,moldy bread emit sour pungent smell,moldy pungent smell sour  ,Olfactive,Quality
+539,stale popcorn linger empty theater seat,popcorn stale  ,Olfactive,Quality
+462,grape soda fizz burst sweet artificial smell,artificial grape smell sweet  ,Olfactive,Quality
+232,garage carry faint scent gasoline grease,gasoline grease scent  ,Olfactive,Quality
+447,pot simmer stew onion thyme meat aroma,aroma meat onion stew thyme  ,Olfactive,Quality
+450,old raincoat smell musty rubber mildew,mildew musty rubber smell,Olfactive,Quality
+449,campfire blanket smell smoke wood ash,ash blanket smoke wood  ,Olfactive,Quality
+138,pine cone crack underfoot forest floor smell woody,pine smell woody  ,Olfactive,Quality
+196,old toy chest smell faint plastic childhood,plastic smell  ,Olfactive,Quality
+317,sneeze pollen cloud flower shop,sneeze pollen  ,Olfactive,Quality
+448,bed linen folded scent rose detergent,detergent rose scent  ,Olfactive,Quality
+536,incense stick burn coil emit sweet smoky fragrance,fragrance incense smoky sweet  ,Olfactive,Quality
+334,mothball scent cling winter coat,scent mothball  ,Olfactive,Quality
+382,muddy boot leave smell wet grass manure,grass manure smell  ,Olfactive,Quality
+69,sharp tang lemon zest brighten kitchen aroma,aroma lemon sharp tang  ,Olfactive,Quality
+429,new book open crisp paper ink scent,ink paper scent  ,Olfactive,Quality
+321,candy store burst fruity sugary fragrance,fragrance fruity sugary  ,Olfactive,Quality
+210,musty smell linger forgotten cellar,musty smell  ,Olfactive,Quality
+132,popcorn butter scent drift cinema lobby,butter popcorn scent  ,Olfactive,Quality
+156,air freshener spray release sharp synthetic floral odor,floral odor sharp synthetic  ,Olfactive,Quality
+246,grease trap reek fried food rot,food grease reek  ,Olfactive,Quality
+383,eggplant grill char release smoky scent,char eggplant smoky scent  ,Olfactive,Quality
+125,roses bloom exude classic floral fragrance,floral fragrance roses  ,Olfactive,Quality
+378,gasoline pump whiff fuel hit air,fuel gasoline whiff  ,Olfactive,Quality
+298,carpet hold scent pet foot traffic,scent,Olfactive,Quality
+297,whiff perfume remind mother,perfume whiff  ,Olfactive,Quality
+159,compost pile give earthy smell rot leaf,earthy leaf rot smell  ,Olfactive,Quality
+358,saddle room filled leather hay musk,hay leather musk  ,Olfactive,Quality
+292,faint odor nail polish linger salon,odor polish  ,Olfactive,Quality
+509,zoo enclosure carry animal musk grass,animal grass musk  ,Olfactive,Quality
+209,old photograph smell faint ink decay,decay ink smell  ,Olfactive,Quality
+287,brew beer smell yeasty hoppy scent,hoppy scent yeasty  ,Olfactive,Quality
+424,school hallway smell pencil disinfectant sweat,disinfectant pencil smell sweat  ,Olfactive,Quality
+19,spicy earthy aroma cinnamon fill cozy,aroma earthy spicy  ,Olfactive,Quality
+366,mashed potato butter release creamy aroma,aroma butter creamy  ,Olfactive,Quality
+56,freshly brew coffee release rich nutty comforting fragrance,coffee fragrance  ,Olfactive,Quality
+290,paint thinner strong sharp chemical smell,chemical sharp smell  ,Olfactive,Quality
+494,tomato vine snap hand release sharp green scent,green sharp tomato scent  ,Olfactive,Quality
+365,sharp ammonia sting nostril spill floor,ammonia sharp  ,Olfactive,Quality
+504,street vendor roast peanut scent drift alley,peanut roast scent  ,Olfactive,Quality
+173,fireplace emit warm woody scent crackle fire,scent woody  ,Olfactive,Quality
+25,bakery yeasty aroma tempt passersby comforting familiarity,aroma  ,Olfactive,Quality
+518,perfumed scarf catch whiff rose jasmine,jasmine perfume rose whiff  ,Olfactive,Quality
+42,old house smell mildew history forget time,smell  ,Olfactive,Quality
+336,cologne trail behind man pass,scent cologne  ,Olfactive,Quality
+451,alleyway reek urine garbage rot,garbage rot urine  ,Olfactive,Quality
+186,summer breeze carry scent blooming jasmine,jasmine scent  ,Olfactive,Quality
+305,grilled corn exude sweet charred aroma,aroma charred corn sweet  ,Olfactive,Quality
+155,rainforest air thick aroma damp vegetation,aroma damp  ,Olfactive,Quality
+127,heavy perfume cloud entrance theater,perfume  ,Olfactive,Quality
+486,mint chocolate chip cone melt sticky hand,chocolate mint  ,Olfactive,Quality
+395,aftershave scent trail skin towel,aftershave scent  ,Olfactive,Quality
+31,honey golden sweetness perfume jar lid open,perfume  ,Olfactive,Quality
+114,soft breeze carry honeysuckle hint evening walk,honeysuckle  ,Olfactive,Quality
+177,fried food stall exude thick greasy aroma,aroma greasy  ,Olfactive,Quality
+495,wet leaves stuck boot smell rot forest,forest leaves rot smell  ,Olfactive,Quality
+481,restaurant vent blow garlic fry odor,fry garlic odor  ,Olfactive,Quality
+57,sharp bite ammonia sting nostril lab,sharp  ,Olfactive,Quality
+423,kitchen sponge give sour moldy odor,moldy odor sour sponge  ,Olfactive,Quality
+24,heavily spice incense cloud temple warm fragrance,fragrance incense  ,Olfactive,Quality
+17,crushed eucalyptus leave release sharp invigorate menthol aroma,aroma eucalyptus sharp  ,Olfactive,Quality
+394,sack potato rot release earthy foul smell,earthy foul potato rot smell  ,Olfactive,Quality
+66,morning frost carry crisp clean smell impending winter,clean crisp smell  ,Olfactive,Quality
+226,old shoes smell mildew sweat,mildew smell sweat  ,Olfactive,Quality
+272,peanut butter jar give nutty aroma,aroma nutty  ,Olfactive,Quality
+250,burn toast emit acrid smell linger room,acrid smell toast  ,Olfactive,Quality
+324,cut grass smell cling leg walk field,grass smell  ,Olfactive,Quality
+95,barn,  ,Olfactive,Quality
+183,cinnamon spice candle burn evening warmth,candle cinnamon spice  ,Olfactive,Quality
+370,faint diesel hang truck stop,diesel  ,Olfactive,Quality
+23,scent freshly sharpen pencil fill quiet classroom,scent  ,Olfactive,Quality
+470,cooked lentils carry earthy musky scent,earthy lentils musky scent  ,Olfactive,Quality
+348,onion skin peel emit faint sharp odor,onion sharp odor  ,Olfactive,Quality
+239,dog fur smell outside adventure,fur smell  ,Olfactive,Quality
+5,faint metallic tang accompany dusty antique workshop smell,metallic smell tang  ,Olfactive,Quality
+117,fridge release sour odor leftover week,sour odor  ,Olfactive,Quality
+45,hint lavender calm air bedroom,lavender  ,Olfactive,Quality
+532,fried chicken box carry grease spice odor,chicken grease odor spice  ,Olfactive,Quality
+303,chimney smoke drift village evening air,smoke  ,Olfactive,Quality
+16,pungent tang garlic fill bustling kitchen,pungent tang  ,Olfactive,Quality
+510,apple pie oven fill house cinnamon sugar scent,apple cinnamon scent sugar  ,Olfactive,Quality
+393,whiff body odor linger crowded elevator,body odor whiff  ,Olfactive,Quality
+3,burn wood fill cabin smoky rustic scent,rustic scent wood  ,Olfactive,Quality
+353,restaurant kitchen filled scent spice broth,broth scent spice  ,Olfactive,Quality
+221,mustard seed toast pan release earthy sharp scent,earthy scent sharp  ,Olfactive,Quality
+60,delicate scent lilac remind spring morning,scent  ,Olfactive,Quality
+519,camping tent hold smoke damp earth smell,damp earth smoke smell  ,Olfactive,Quality
+111,scent cinnamon bun waft bakery door,cinnamon scent  ,Olfactive,Quality
+377,chopped cilantro release earthy sharp fragrance,cilantro earthy fragrance sharp  ,Olfactive,Quality
+288,mildew cling shower curtain stale odor,mildew odor  ,Olfactive,Quality
+29,faint floral perfume cling note envelope,floral perfume  ,Olfactive,Quality
+372,cabbage boil pot fill house strong odor,cabbage odor  ,Olfactive,Quality
+299,steamed rice release subtle nutty aroma,aroma nutty rice  ,Olfactive,Quality
+26,acrid scent sulfur follow striking match,scent sulfur  ,Olfactive,Quality

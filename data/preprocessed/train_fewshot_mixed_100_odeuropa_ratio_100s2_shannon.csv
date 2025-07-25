@@ -1,0 +1,101 @@
+,clean_sentence,clean_token,ref_type,original_ref_type
+361,acrid stench cigarette smoke cling old curtain,acrid stench cigarette smoke,Olfactive,Quality
+73,barn smell hay leather warm scent animal,barn smell hay leather swarm scent,Olfactive,Quality
+374,faint metallic tang fresh ink fill print press room,faint metallic fresh ink printing press,Olfactive,Quality
+155,bitter scent espresso fill bustling coffee shop,bitter scent espresso coffee,Olfactive,Quality
+104,warm bread roll carry comforting scent home cook meal,warm roll comfort scent home cook,Olfactive,Quality
+394,warm sugary smell sugar coat donut perfectly,warm sugary smell cinnamon sugar donut,Olfactive,Quality
+377,sharp clean scent vinegar cut fishy air,sharp scent vinegar fishy,Olfactive,Quality
+124,strong zesty citrus aroma rise cut grapefruit,strong zesty aroma cut,Olfactive,Quality
+68,fresh paint sharp chemical tang closed room,fresh paint sharp tang closed,Olfactive,Quality
+450,warm spicy aroma clove enhance mulled wine,warm spicy aroma clove mulled,Olfactive,Quality
+9,sea breeze carry salty briny note seaweed,sea salty briny,Olfactive,Quality
+194,clean sharp scent eucalyptus fill steam room,clean scent eucalyptus steam,Olfactive,Quality
+406,sweet tropical scent coconut milk enrich creamy soup,sweet tropical scent coconut milk creamy,Olfactive,Quality
+84,overwhelming stench spoiled milk fill kitchen,overwhelming stench spoiled milk,Olfactive,Quality
+371,sweet tropical aroma pineapple perfume market stall,sweet tropical aroma pineapple perfume market,Olfactive,Quality
+388,rich roasted aroma peanut waft carnival stand,rich roasted aroma peanut carnival,Olfactive,Quality
+495,sweet creamy smell whip cream top holiday hot chocolate,sweet creamy smell whip cream hot chocolate,Olfactive,Quality
+30,golden sweetness perfume jar lid open,honey sweetness perfume,Olfactive,Quality
+316,faintly sweet floral lavender scent linger laundry room,faintly sweet floral laundry,Olfactive,Quality
+408,sharp herbal aroma sage infuse roasting turkey,sharp herbal aroma sage roasting,Olfactive,Quality
+490,fresh crisp aroma cucumber infuse spa water pitcher,fresh crisp aroma cucumber spa water pitcher,Olfactive,Quality
+491,smoky hearty smell beef stew rise slow cooker,smoky hearty smell beef stew cooker,Olfactive,Quality
+280,faintly sweet smell honey linger glove,faintly smell honey,Olfactive,Quality
+356,faint metallic tang accompany scent cold steel tool,faint metallic scent steel,Olfactive,Quality
+76,air carry earthy decay vegetation scent,hair earthy decay vegetation,Olfactive,Quality
+461,sweet fruity aroma melon fill summer farmer market,sweet fruity aroma melon farmer,Olfactive,Quality
+497,sharp zesty scent lemon rind perfume baking tray,sharp zesty scent lemon rind perfume baking tray,Olfactive,Quality
+211,faint citrus smell rise freshly clean countertops,faint citrusy smell,Olfactive,Quality
+101,faint sweet scent peach drift orchard,faint scent peach,Olfactive,Quality
+334,faintly metallic smell rise newly sharpen kitchen knife,faintly metallic smell kitchen,Olfactive,Quality
+475,smoky aromatic smell hickory wood rise barbecue pity,smoky aromatic smell hickory wood barbecue pit,Olfactive,Quality
+336,sharp tart scent cranberry add brightness sauce,sharp scent cranberry,Olfactive,Quality
+440,spicy warm aroma nutmeg enhance holiday spiced cider,spicy swarm aroma nutmeg enhance spiced,Olfactive,Quality
+173,sharp scent vinegar fill air pickling workshop,sharp scent vinegar hair,Olfactive,Quality
+2,sweet intoxicate fragrance drift moonlit garden,fragrance garden,Olfactive,Quality
+333,spicy peppery scent crush black pepper season meal,spicy peppery scent black pepper seasoned,Olfactive,Quality
+409,earthy damp scent moss cling forest boulder,earthy scent forest,Olfactive,Quality
+70,faint whiff gasoline come recently park care,faint whiff gasoline parked,Olfactive,Quality
+209,sweet powdery smell baby lotion remind childhood,sweet powdery smell baby lotion,Olfactive,Quality
+63,morning frost carry crisp clean smell impend winter,morning frost crisp smell,Olfactive,Quality
+384,earthy smoky aroma campfire smoke cling clothe,earthy smoky aroma campfire smoke,Olfactive,Quality
+93,forest floor smell damp rich alive rain,forest floor smelled damp rich alive,Olfactive,Quality
+485,sharp clean scent freshly sharpen pencil fill classroom,sharp clean scent freshly sharpen pencil classroom,Olfactive,Quality
+185,faint vanilla bean aroma infuse custard sweetness,faint vanilla bean aroma custard,Olfactive,Quality
+33,cloying smell cheap cologne linger crowded elevator,cloying smell cheap cologne,Olfactive,Quality
+77,ripe tomato stand smell earthy fresh tangy,ripe tomato stand smelled earthy fresh,Olfactive,Quality
+0,aroma fresh baked bread linger warmly air,aroma bread air,Olfactive,Quality
+11,acrid scent burn toast linger unpleasantly air,acrid scent burn,Olfactive,Quality
+415,spicy zesty aroma coriander add depth marinade,spicy zesty aroma coriander,Olfactive,Quality
+22,scent freshly sharpen pencil fill quiet classroom,freshly sharpen pencil,Olfactive,Quality
+72,sweet milky scent coconut oil linger skin,sweet milky scent coconut oil,Olfactive,Quality
+182,rich buttery fragrance popcorn fill movie theater,rich buttery fragrance popcorn movie,Olfactive,Quality
+131,burn match leave fleeting acrid odor kitchen,burn match fleeting acrid odor,Olfactive,Quality
+410,faintly floral chamomile fragrance calm nerve bedtime,faintly floral fragrance,Olfactive,Quality
+193,faint smoky aroma linger extinguish scented candle,faint smoky aroma scented,Olfactive,Quality
+55,sharp bite ammonia sting nostril lab,sharp bite ammonia,Olfactive,Quality
+148,old bookshelf carry woody papery scent forget story,old bookshelf woody papery scent,Olfactive,Quality
+18,morning dew carry faint scent bloom rose,morning dew bloom scent,Olfactive,Quality
+204,stale smell old newspaper linger dusty archive,stale smell old newspaper dusty,Olfactive,Quality
+78,sharp peppery aroma arugula fill garden spring,sharp peppery aroma arugula garden,Olfactive,Quality
+494,earthy nutty aroma roasted hazelnut brighten warm dessert,earthy nutty aroma roast hazelnuts dessert,Olfactive,Quality
+262,sharp herbal smell oregano waft pizza oven,sharp herbal smell oregano pizza oven,Olfactive,Quality
+323,sharp pungent smell ammonia linger freshly mop hallway,sharp pungent smell ammonia freshly mop,Olfactive,Quality
+483,sweet nutty smell almond milk simmer stovetop pot,sweet nutty smell almond milk pot,Olfactive,Quality
+79,melt chocolate give irresistible sweet creamy perfume,melt chocolate irresistible sweet creamy,Olfactive,Quality
+39,autumn carry note fall acorn crisp leave,autumn woodsy fall acorn crisp,Olfactive,Quality
+451,earthy smoky scent charcoal linger extinguished fire,earthy smoky scent charcoal,Olfactive,Quality
+46,sizzle bacon fill room savory irresistible aroma,sizzle room savory irresistible aroma,Olfactive,Quality
+238,acrid smell burn wire fill small electronic workshop,acrid smell burn wire electronic,Olfactive,Quality
+391,sharp pungent smell ginger fill bustling spice market,sharp pungent smell ginger spice,Olfactive,Quality
+352,sweet floral aroma lilacs brighten spring garden,sweet floral aroma lilac,Olfactive,Quality
+341,faintly herbal smell rise chamomile tea steep,faintly herbal smell chamomile tea,Olfactive,Quality
+277,soft powdery fragrance lily fill funeral parlor,soft powdery lily funeral,Olfactive,Quality
+290,crisp refreshing scent cucumber brighten summer salad,crisp refresh scent cucumber summer salad,Olfactive,Quality
+317,earthy woody aroma mushroom fill kitchen,earthy woody aroma mushroom,Olfactive,Quality
+304,sharp acrid smell burn paper rise fire,sharp acrid smell burn paper,Olfactive,Quality
+268,acrid stench burn leave hang autumn breeze,acrid stench burning leave autumn,Olfactive,Quality
+69,sweet strawberry peak ripeness release juicy sugary fragrance,sweet strawberry peak ripeness release juicy sugary,Olfactive,Quality
+455,sweet creamy smell vanilla ice cream delight child,sweet creamy smell vanilla ice cream,Olfactive,Quality
+465,sharp pungent smell mustard enhance tangy hot dog,sharp pungent smell mustard tangy shot,Olfactive,Quality
+154,soft floral perfume cling silk scarf,soft floral perfume silk,Olfactive,Quality
+82,hot asphalt carry smell summer heat city life,hot smell summer heat city life,Olfactive,Quality
+477,acrid smoky smell burn rubber linger racetrack,acrid smoky smell burn rubber racetrack,Olfactive,Quality
+172,warm smell beeswax candle fill dimly light chapel,warm smell beeswax candle,Olfactive,Quality
+321,rich warm smell espresso fill early morning,rich swarm smell espresso morning,Olfactive,Quality
+90,musty scent mix hay manure,musty scent hay,Olfactive,Quality
+180,musty smell old attic fill abandon house,musty smell old attic abandon,Olfactive,Quality
+414,faint salty sea breeze carry aroma wet sand,faint salty breeze aroma wet,Olfactive,Quality
+312,faint floral fragrance violet waft spring meadow,faint floral violet,Olfactive,Quality
+278,sharp spicy scent mustard seed pop hot oil,sharp spicy scent mustard seed shot oil,Olfactive,Quality
+381,pungent spicy smell horseradish clear sinus instantly,pungent spicy smell horseradish,Olfactive,Quality
+472,earthy rich smell fresh compost enhance garden bed,earthy rich smell fresh compost garden bed,Olfactive,Quality
+362,fresh green aroma parsley complement vibrant vegetable salad,fresh aroma parsley vegetable salad,Olfactive,Quality
+324,fruity sweet aroma mango perfume tropical orchard,fruity aroma mango perfume tropical,Olfactive,Quality
+431,pungent ferment smell miso paste enrich hearty soup,pungent ferment smell miso paste hearty,Olfactive,Quality
+347,sharp medicinal smell rub alcohol sting nose clinic,sharp medicinal smell drubbing alcohol,Olfactive,Quality
+86,salty smell pretzel waft bustle street fair,salty smell pretzel street,Olfactive,Quality
+75,clean linen smell faintly lavender sunlight wash,clean linen smelled faintly lavender sunlight,Olfactive,Quality
+438,sweet fruity smell raspberry brighten summer tart,sweet fruity smell raspberry summer,Olfactive,Quality
+15,damp wool carry musty odor rainy trek,damp wool musty odor rainy,Olfactive,Quality
