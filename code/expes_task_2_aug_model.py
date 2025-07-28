@@ -12,10 +12,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
 
-
-
-sys.path.append('/home/cboscher/PHD/code/sense-lm_eacl2024/code/')
-
 import gc
 from utils.prepare_data import prepare_data_step_2
 
