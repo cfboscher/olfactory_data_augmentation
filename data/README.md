@@ -1,52 +1,62 @@
 # 🧪 Olfactory Synthetic Dataset (D2)
 
-This repository contains the **Olfactory Synthetic Dataset (D2)**, developed as part of the study _"Enhancing Low-Resource Sensory Text Classification with LLM-Generated Corpora: A Case Study on Olfactory Reference Extraction"_.
+This repository contains the **Olfactory Synthetic Dataset (D2)**, created for the study _"Enhancing Low-Resource Sensory Text Classification with LLM-Generated Corpora: A Case Study on Olfactory Reference Extraction"_.
 
 ## 📄 Description
 
-D2 is a synthetic dataset generated using **GPT-4o** to simulate olfactory (smell-related) and non-olfactory sentences, serving as a complementary resource to the real-world **Odeuropa Corpus (D1)**. The dataset is intended for research on **sensory information extraction**, particularly in **low-resource settings**.
+**D2** is a synthetic corpus generated and annotated using **GPT-4o**, designed to support research in **olfactory information extraction** under low-resource conditions. It aims to complement real-world data by providing additional, diverse examples of both olfactory and non-olfactory sentences.
 
-The dataset includes:
+The dataset contains:
 
 - **500 positive (olfactory)** sentences
 - **1,700 negative (non-olfactory)** sentences
-- Two annotation versions:
-  - `D2_EX`: Human-annotated (expert)
-  - `D2_LM`: Automatically annotated using GPT-4o
+- Two annotation types:
+  - `corpus_D2EX.csv`: Manually annotated by a sensory linguistics expert
+  - `corpus_D2LM.csv`: Automatically annotated using GPT-4o
 
-Each positive sentence includes **token-level annotations** for olfactory terms.
+Each sentence is annotated at both the **sentence-level** (olfactory vs. not) and **token-level** (identified terms and true positives).
 
-## 📦 Structure
+## 📦 Files
 
 ```
 dataset/
-├── D2_EX.csv          # Human-annotated data
-├── D2_LM.csv          # LLM-annotated data
-├── prompts.txt        # Prompts used for generation
+├── corpus_D2EX.csv          # Human-annotated data
+├── corpus_D2LM.csv          # LLM-annotated data
+├── prompts.txt        # Prompts used for generation and annotation
 ├── data_dictionary.md # Description of dataset fields
 └── README.md          # This file
 ```
 
+## 🧾 Data Format
+
+Each `.csv` file contains the following columns:
+
+- `phrases`: The synthetic sentence
+- `identified_terms`: Terms identified as potentially olfactory
+- `positive_negative`: `1` if the sentence is olfactory, `0` if not
+
+Example row:
+```
+phrases: "The aroma of freshly baked bread filled the room."
+identified_terms: ['aroma', 'bread']
+positive_negative:             1
+```
+
 ## 🔍 Use Cases
 
-- Sentence classification: Does a sentence contain olfactory references?
-- Sensory term extraction: Which words refer to olfactory concepts?
+- **Binary Sentence Classification**: Does a sentence contain olfactory information?
+- **Sensory Trms xtraction**: Which specific terms refer to smells?
+- **LLM evaluation**: Compare human vs. model annotation consistency
 
 ## 🧠 Generation Method
 
-- Sentences were created using **two custom prompts**:
-  - `P1` for positive (olfactory) examples
-  - `P2` for negative (non-olfactory) examples
-- Olfactory terms were annotated:
-  - Automatically using `P3` (LLM extraction)
-  - Manually by a domain expert in sensory linguistics
+Sentences were generated using GPT-4o with two tailored prompts:
+- `P1`: Generate olfactory (positive) sentences
+- `P2`: Generate non-olfactory (negative) sentences
 
-## 🧪 Sample
-
-| Type     | Sentence                                                            |
-|----------|---------------------------------------------------------------------|
-| Positive | _“The aroma of **fresh-baked bread** lingered warmly.”_            |
-| Negative | _“A fearless diver plumbed unexplored reefs below.”_               |
+Annotation was conducted using:
+- `P3`: GPT-4o extraction of sensory terms (`D2_LM.csv`)
+- Manual expert annotation for comparison (`D2_EX.csv`)
 
 ## 📊 Dataset Statistics
 
@@ -54,12 +64,11 @@ dataset/
 |-------------|-------|----------------|
 | Positive    | 500   | Human & LLM    |
 | Negative    | 1700  | Human & LLM    |
-| Vocabulary  | 902 unique terms (DEX), 318 (DLM) |
-
+| Terms       | Token-level (extracted spans) |
 
 ## ✅ License
 
-This dataset contains only **synthetically generated text** and **annotations of public-domain content**, and is released under the **CC-BY 4.0 License**.
+This dataset consists entirely of **synthetic sentences** and annotations over public-domain content. It is released under the **CC-BY 4.0 License**.
 
 ## 📚 Citation
 
@@ -74,4 +83,4 @@ If you use this dataset in your research, please cite:
 
 ---
 
-_This dataset provides a benchmark for evaluating LLM-generated data in subjective domains like sensory perception, and is part of broader efforts to support reproducible research in low-resource NLP._
+_This dataset supports reproducible research in sensory language modeling and low-resource text classification._
