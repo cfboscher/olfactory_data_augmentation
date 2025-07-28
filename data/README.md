@@ -63,8 +63,8 @@ Then, the prompt **P3** is applied on positive examples to extract **positive te
 
 
 Annotation was conducted using:
-- Manual expert annotation for comparison (`D2_EX.csv`)
-- `P3`: GPT-4o extraction of sensory terms (`D2_LM.csv`)
+- Manual expert annotation for comparison (`corpus_D2EX.csv`)
+- `P3`: GPT-4o extraction of sensory terms (`corpus_D2LM.csv`)
 
 
 | **Type**                    | **Prompt Description** |
