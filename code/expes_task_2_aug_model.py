@@ -39,11 +39,6 @@ def main():
     parser.add_argument("--device", default="cuda", help="cpu or cuda")
     args = parser.parse_args()
 
-    # # 1) Load and split
-    # df = pd.read_csv('/home/cboscher/PHD/code/symtesens_annotation/GPT4/source_gpt4/data_olf_gpt4_preprocessed.csv')
-    # df = df.dropna(subset=["normalized_text","contains_ref"])
-    # # df["label"] = df["label"].astype(int)
-
 
     max_sizes = [360]
 

@@ -75,7 +75,7 @@ def prepare_data_step_1(root_path, dataset):
 
     elif dataset == 'gpt4_olf':
 
-        folder = "/home/cboscher/PHD/code/symtesens_annotation/GPT4/source_gpt4/"
+        folder = "source_gpt4/"
         cleansed_path = os.path.join(folder, "data_olf_gpt4_preprocessed.csv")
 
         # Load preprocessed data if already exist
@@ -83,7 +83,7 @@ def prepare_data_step_1(root_path, dataset):
             df = pd.read_csv(cleansed_path)
 
         else:
-            folder = "/home/cboscher/PHD/code/symtesens_annotation/GPT4/source_gpt4/"
+            folder = "source_gpt4/"
             new_path = os.path.join(folder, "data_olf_gpt4.csv")
             df = pd.read_csv(new_path)
             df = preprocess_text(df)
@@ -172,7 +172,7 @@ def prepare_data_step_2(root_path, dataset):
 
     elif dataset == 'gpt4_olf':
 
-        folder = "/home/cboscher/PHD/code/symtesens_annotation/GPT4/source_gpt4/"
+        folder = "source_gpt4/"
         cleansed_path = os.path.join(folder, "GPT4_neg_600_v01_preprocessed.csv")
 
         # Load preprocessed data if already exist
@@ -180,7 +180,7 @@ def prepare_data_step_2(root_path, dataset):
             df = pd.read_csv(cleansed_path)
 
         else:
-            folder = "/home/cboscher/PHD/code/symtesens_annotation/GPT4/source_gpt4/"
+            folder = "source_gpt4/"
             new_path = os.path.join(folder, "GPT4_neg_600_v01.csv")
             df = pd.read_csv(new_path)
             df = preprocess_column(df, 'sentence', 'clean_sentence')
@@ -240,7 +240,6 @@ def prepare_data_step_2(root_path, dataset):
     # df['clean_sentence'] = df['sentence'].apply(lambda x: clean_text(x))
     # df['clean_token'] = df['token'].apply(lambda x: clean_text(x))
 
-    df.to_csv(f'/home/cboscher/PHD/code/symtesens_annotation/annotation_done/analyses/{dataset}_w_id_and_clean_token.csv')
 
 
     return df

@@ -37,11 +37,6 @@ def main():
     parser.add_argument("--device", default="cuda", help="cpu or cuda")
     args = parser.parse_args()
 
-    # # 1) Load and split
-    # df = pd.read_csv('/home/cboscher/PHD/code/symtesens_annotation/GPT4/source_gpt4/data_olf_gpt4_preprocessed.csv')
-    # df = df.dropna(subset=["normalized_text","contains_ref"])
-    # # df["label"] = df["label"].astype(int)
-
     sizes = [20, 50, 100,  200, 300, 360 ]
 
     # sizes = [1750]
@@ -76,7 +71,7 @@ def main():
 
 
             print('Splitting data...')
-            train_data, test_data = pd.read_csv(f'data/preprocessed/train_fewshot_{str(size)}_s2_shannon.csv'), pd.read_csv(
+            train_data, test_data = pd.read_csv(f'data/preprocessed/train_fewshot_{str(size)}_s2_human.csv'), pd.read_csv(
                 '../data/preprocessed/test_odeuropa_s2.csv')
             train_data = train_data.reset_index()
             test_data = test_data.reset_index()
