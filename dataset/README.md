@@ -43,7 +43,7 @@ positive_negative:             1
 ## 🔍 Use Cases
 
 - **Binary Sentence Classification**: Does a sentence contain olfactory information?
-- **Sensory Trms xtraction**: Which specific terms refer to smells?
+- **Sensory Terms Extraction**: Which specific terms refer to smells?
 - **LLM evaluation**: Compare human vs. model annotation consistency
 
 ## 📊 Dataset Statistics
@@ -59,7 +59,7 @@ positive_negative:             1
 
 We provide the prompts used for the generation and automatic annotation of the **$D_2$ dataset** in the table below. The **P1** prompt is used to generate **positive examples**, and conversely, **P2** is used to generate **negative examples**. Considering the limitations of the GPT-4o web application, we generate the dataset in batches of 100 examples, which are compiled into a CSV file along with their class at a sentence level (positive/negative).  
 
-Then, the prompt **P3** is applied on positive examples to extract **positive terms** as part of the **DLM annotation**.
+Then, the prompt **P3** is applied on positive examples to extract **positive terms** as part of the **D2_LM annotation**.
 
 
 Annotation was conducted using:
@@ -74,15 +74,18 @@ Annotation was conducted using:
 | **P3 (Positive Terms Annotation)** | *"Extract words from the following sentences that evoke smells, explicitly or implicitly (e.g., describing smell quality or source). For example, from ‘Musk pots generally moist exhales disagreeable predominant ammoniacal smell...’ extract ‘disagreeable, predominant, ammoniacal, musk, smell.’"* |
 
 
-## License
+[//]: # (## License)
 
-This dataset consists entirely of **synthetic sentences** and annotations over public-domain content. It is released under the **CC-BY 4.0 License**.
+[//]: # ()
+[//]: # (This dataset consists entirely of **synthetic sentences** and annotations over public-domain content. It is released under the **CC-BY 4.0 License**.)
 
-## 📚 Citation
+[//]: # (## 📚 Citation)
 
-If you use this dataset in your research, please cite:
+[//]: # ()
+[//]: # (If you use this dataset in your research, please cite:)
 
-> Anonymized Authors (2025). _Using LLM-generated data for sensory information extraction: a case study on olfactory text._ [PDF](https://anonymous.4open.science/r/ijcnlp_2025-DC51)
+[//]: # ()
+[//]: # (> Anonymized Authors &#40;2025&#41;. _Using LLM-generated data for sensory information extraction: a case study on olfactory text._)
 
 ## 🔗 Related Resources
 

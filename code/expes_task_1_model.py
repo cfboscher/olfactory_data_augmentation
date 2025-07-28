@@ -145,7 +145,7 @@ def main():
             print(f"===============================")
 
             train_df, test_df = pd.read_csv(f'data/preprocessed/train_fewshot_{size}_original.csv'), pd.read_csv(
-                '../data/preprocessed/test_odeuropa_s1.csv')
+                '../dataset/preprocessed/test_odeuropa_s1.csv')
             train_df['normalized_text'] = train_df['normalized_text'].apply(lambda x: str(x))
             test_df['normalized_text'] = test_df['normalized_text'].apply(lambda x: str(x))
 

@@ -128,7 +128,7 @@ def main():
     args = parser.parse_args()
 
     # 1) Load and split
-    df = pd.read_csv('../data/preprocessed/data_olf_gpt4_preprocessed.csv')
+    df = pd.read_csv('../dataset/preprocessed/data_olf_gpt4_preprocessed.csv')
     df = df.dropna(subset=["normalized_text","contains_ref"])
     # df["label"] = df["label"].astype(int)
 
@@ -153,7 +153,7 @@ def main():
 
 
                     train_df, test_df = pd.read_csv(f'data/preprocessed/train_fewshot_mixed_{str(size)}_total_{str(max_size)}_aug_samples.csv'), pd.read_csv(
-                        '../data/preprocessed/test_odeuropa_s1.csv')
+                        '../dataset/preprocessed/test_odeuropa_s1.csv')
                     train_df['normalized_text'] = train_df['normalized_text'].apply(lambda x: str(x))
                     test_df['normalized_text'] = test_df['normalized_text'].apply(lambda x: str(x))
 

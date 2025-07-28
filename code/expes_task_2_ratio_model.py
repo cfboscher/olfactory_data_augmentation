@@ -45,7 +45,7 @@ def main():
     class Config:
         def __init__(self):
             self.device = "cuda"
-            self.data_path = "../data"
+            self.data_path = "../dataset"
             self.dataset = "gpt4_olf"
             self.random_seed = 42
             self.steps = "2"
@@ -79,7 +79,7 @@ def main():
 
                 print('Splitting data...')
                 train_data, test_data = pd.read_csv(f'data/preprocessed/train_fewshot_mixed_{str(size)}_odeuropa_ratio_{str(max_size)}s2.csv'), pd.read_csv(
-                    '../data/preprocessed/test_odeuropa_s2.csv')
+                    '../dataset/preprocessed/test_odeuropa_s2.csv')
                 train_data = train_data.reset_index()
                 test_data = test_data.reset_index()
 
