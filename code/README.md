@@ -1,4 +1,4 @@
-# Anonymized Project
+# Olfactory Data Augmentation
 The code of "Enhancing Low-Resource Sensory Text Classification with LLM-Generated
 Corpora : A Case Study on Olfactory Reference Extraction".
 
