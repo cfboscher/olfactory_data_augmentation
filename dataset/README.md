@@ -1,6 +1,6 @@
-# Olfactory Synthetic Dataset (D2)
+# Olfactory Synthetic Dataset
 
-This repository contains the **Olfactory Synthetic Dataset (D2)**, created for the study _"Enhancing Low-Resource Sensory Text Classification with LLM-Generated Corpora: A Case Study on Olfactory Reference Extraction"_.
+This repository contains the **Olfactory Synthetic Dataset **, created for the study _"Enhancing Low-Resource Sensory Text Classification with LLM-Generated Corpora: A Case Study on Olfactory Reference Extraction"_ and referred to as D2 in the latter.
 
 ## Description
 
@@ -11,7 +11,7 @@ The dataset contains:
 - **500 positive (olfactory)** sentences
 - **1,700 negative (non-olfactory)** sentences
 - Two annotation types:
-  - `corpus_D2EX.csv`: Manually annotated by a sensory linguistics expert
+  - `corpus_D2EX.csv`: Manually annotated by a human expert
   - `corpus_D2LM.csv`: Automatically annotated using GPT-4o
 
 Each sentence is annotated at both the **sentence-level** (olfactory vs. not) and **token-level** (identified terms and true positives).
@@ -40,21 +40,6 @@ identified_terms: ['aroma', 'bread']
 positive_negative:             1
 ```
 
-## 🔍 Use Cases
-
-- **Binary Sentence Classification**: Does a sentence contain olfactory information?
-- **Sensory Terms Extraction**: Which specific terms refer to smells?
-- **LLM evaluation**: Compare human vs. model annotation consistency
-
-## 📊 Dataset Statistics
-
-| Type        | Count | Annotation     |
-|-------------|-------|----------------|
-| Positive    | 500   | Human & LLM    |
-| Negative    | 1700  | Human & LLM    |
-| Terms       | Token-level (extracted spans) |
-
-
 ## Dataset Generation and Annotation Prompts
 
 We provide the prompts used for the generation and automatic annotation of the **$D_2$ dataset** in the table below. The **P1** prompt is used to generate **positive examples**, and conversely, **P2** is used to generate **negative examples**. Considering the limitations of the GPT-4o web application, we generate the dataset in batches of 100 examples, which are compiled into a CSV file along with their class at a sentence level (positive/negative).  
@@ -74,24 +59,9 @@ Annotation was conducted using:
 | **P3 (Positive Terms Annotation)** | *"Extract words from the following sentences that evoke smells, explicitly or implicitly (e.g., describing smell quality or source). For example, from ‘Musk pots generally moist exhales disagreeable predominant ammoniacal smell...’ extract ‘disagreeable, predominant, ammoniacal, musk, smell.’"* |
 
 
-[//]: # (## License)
 
-[//]: # ()
-[//]: # (This dataset consists entirely of **synthetic sentences** and annotations over public-domain content. It is released under the **CC-BY 4.0 License**.)
-
-[//]: # (## 📚 Citation)
-
-[//]: # ()
-[//]: # (If you use this dataset in your research, please cite:)
-
-[//]: # ()
-[//]: # (> Anonymized Authors &#40;2025&#41;. _Using LLM-generated data for sensory information extraction: a case study on olfactory text._)
-
-## 🔗 Related Resources
+## Related Resources
 
 - Odeuropa Corpus (D1): https://github.com/Odeuropa/benchmarks_and_corpora  
-- Paper and project page: https://anonymous.4open.science/r/ijcnlp_2025-DC51
+- Paper and project page : Released upon article publication at IJCNLP-AACL 2025
 
----
-
-_This dataset supports reproducible research in sensory language modeling and low-resource text classification._
